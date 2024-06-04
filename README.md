@@ -17,10 +17,6 @@ The World Layoffs dataset (CSV file) focuses on layoff statistics of businesses 
 - **Firm’s Location**: Specific location of the firm
 - **Raised Funds**: Funds raised by the company in millions
 
-### Tools and Languages
-- **Tool**: MySQL Workbench
-- **Language**: SQL
-
 ## Data Cleaning Process
 
 1. **Removed Duplicate Data**:
